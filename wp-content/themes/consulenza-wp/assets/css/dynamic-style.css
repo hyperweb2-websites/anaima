@@ -1,0 +1,17 @@
+.isotope-layout.shop-archive .isotope-item {padding-left: 30px;margin-bottom: 30px;}
+.isotope-layout.shop-archive {margin-left: -30px;}
+#footer-top-callout-wrap .callout-content p {font-size: 18px;}
+#footer-top-callout-wrap .callout-icon i {font-size: 48px;}
+#footer-top-callout-wrap {background-color: #f5f5f5;}
+header#header .site-brand img {max-width: 220px;}
+header#header .site-brand img {max-height: 55px;}
+header#header .header-nav-wrapper.scroll-to-fixed-fixed .site-brand img {max-height: 40px;}
+.menuzord-menu ul.dropdown, .menuzord-menu ul.dropdown li ul.dropdown {min-width: 260px;}
+@media (min-width: 1450px) {body.tm-vertical-nav header#header {width: 300px;}
+	body.tm-vertical-nav .main-content, body.tm-vertical-nav .footer {margin-left: 300px;}
+	body.tm-vertical-nav .container {max-width: 1100px;}}
+body.tm-boxed-layout {background-color: #444;}
+.maintenance-mode .logo img {max-width: 200px;}
+.tm-page-title > .container, .tm-page-title > .container-fluid {padding-top: 80px;padding-bottom: 80px;}
+.tm-page-title {background-repeat: no-repeat;background-size: cover;background-position: center center;background-image: url("https://dev.kodesolution.work/personal/j/consulenza/demo/wp-content/themes/consulenza-wp/assets/images/bg/bg1.jpg");}
+.tm-page-title .title {font-size: 54px;line-height: 64px;}
